@@ -5,6 +5,7 @@ Hello, I am Cynthia, a web developer and a linguist. I obtained my degree in lin
 📫 How to reach me: https://www.linkedin.com/in/cynthia-varelas-83a1801a2/
 
 😄 Pronouns: She/Her
+
 ⚡ Fun fact: During Warp Tour 2013 (R.I.P) I got kicked in the face during a We Came As Romans set 🤘. 
 
 <!--
