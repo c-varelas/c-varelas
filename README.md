@@ -23,3 +23,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- The script tag should live in the head of your page if at all possible -->
+<script type="text/javascript" async src="https://play.vidyard.com/embed/v4.js"></script>
+
+<!-- Put this wherever you would like your player to appear -->
+<img
+  style="width: 100%; margin: auto; display: block;"
+  class="vidyard-player-embed"
+  src="https://play.vidyard.com/BC7mxG1wb5yqfxuVJ1MrDn.jpg"
+  data-uuid="BC7mxG1wb5yqfxuVJ1MrDn"
+  data-v="4"
+  data-type="inline"
+/>
